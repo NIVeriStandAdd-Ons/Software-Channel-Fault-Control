@@ -8,7 +8,7 @@ LabVIEW 2010
 
 ### Built Availability ###
 
-This IP is built and available for NI VeriStand 2010 [here](http://www.ni.com/example/31334/en/) but will be taken down soon.
+No builds are provided.
 
 ### Quality, Limitations ###
 
